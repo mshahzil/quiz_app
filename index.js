@@ -13,7 +13,7 @@ const session = require('express-session');
 // Importing bcryptjs for encrypting and decrypting passwords
 const bcrypt = require('bcryptjs');
 
-// Initializing a new express app
+// Initializing new express app
 const app = express();
 
 // Initializng PORT for the server to listen on
