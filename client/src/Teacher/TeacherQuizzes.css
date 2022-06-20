@@ -1,0 +1,108 @@
+.quiz-head {
+    font-size: 28px;
+    font-weight: 700;
+    color: #0B4B36;
+}
+
+.new-quiz-btn {
+    background-color: #0B4B36;
+    border-color: #0B4B36;
+    color: white;
+    border-radius: 4px;
+    padding: 10px 20px;
+    font-size: 14px;
+}
+
+.content-container {
+    width: 67%;
+}
+
+.table-container {
+    background-color: white;
+    padding: 40px;
+}
+
+.t-head {
+    color: #777777;
+    font-size: 14px;
+}
+
+.quiz-icon {
+    color: black;
+}
+
+#update-alert {
+    color: green;
+    font-weight: 600;
+    visibility: hidden;
+}
+
+.quiz-name-container {
+    background-color: white;
+    padding: 18px 30px;
+    border-radius: 5px;
+}
+
+.quiz-question-container {
+    background-color: white;
+    padding: 18px 30px;
+    border-radius: 5px;
+}
+
+.correct-option {
+    background-color: #0b4b36;
+    color: white !important;
+    font-size: 13px;
+    border-radius: 5px;
+}
+
+.add-question-container {
+    background-color: white;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.add-question {
+    color: #0B4B36;
+    background-color: white;
+    font-weight: 600;
+    font-size: 13.5px;
+    border: none;
+}
+
+.delete-alert-box {
+    color: #0B4B36;
+    background-color: #E5E5E5;
+    z-index: 99999;
+    position: fixed;
+    top: 43%;
+    left: 30%;
+    width: 40%;
+    border: 3px solid #151515;
+}
+
+.hor-delete-btn {
+    background-color: #0B4B36;
+    border: 0;
+    font-size: 14px;
+}
+
+.quiz-delete-btn {
+    background-color: #0B4B36;
+    color: white;
+    border-radius: 5px;
+    border: 0;
+    font-size: 14px;
+}
+
+.back-link {
+    color:#0B4B36;
+}
+
+.back-link:hover {
+    color:#0B4B36;
+}
+
+.quiz-name {
+    font-weight: 400;
+}

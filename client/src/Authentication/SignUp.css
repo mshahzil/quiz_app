@@ -1,0 +1,20 @@
+.outDiv2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 516px;
+    height: 590px;
+    left: 500px;
+    top: 115px;
+    background: #FFFFFF;
+    border-radius: 6px;
+}
+
+#pass-error {
+    visibility: hidden;
+    text-align: center;
+    color: red;
+    margin-left: 26px;
+    font-size: 14px;
+}

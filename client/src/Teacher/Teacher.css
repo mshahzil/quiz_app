@@ -1,0 +1,20 @@
+.header-container {
+    width: 85%;
+}
+
+.tab {
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+}
+
+.tab:hover {
+    color:#f7d792;
+    text-decoration: none;
+}
+
+#signout-link {
+    color: white;
+    font-weight: 500;
+    font-size: 17px;
+}
